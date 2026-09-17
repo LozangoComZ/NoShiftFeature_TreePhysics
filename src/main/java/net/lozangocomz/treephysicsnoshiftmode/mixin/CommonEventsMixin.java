@@ -1,4 +1,4 @@
-package net.lozangocomz.treephysicsnoshiftfeature.mixin;
+package net.lozangocomz.treephysicsnoshiftmode.mixin;
 
 import com.farcr.treephysics.event.CommonEvents;
 import net.minecraft.world.entity.player.Player;

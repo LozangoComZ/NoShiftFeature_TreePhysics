@@ -37,4 +37,4 @@ ordering="NONE"
 side="BOTH"
 
 [[mixins]]
-config = "treephysicsnoshiftfeature.mixins.json"
+config = "treephysicsnoshiftmode.mixins.json"
