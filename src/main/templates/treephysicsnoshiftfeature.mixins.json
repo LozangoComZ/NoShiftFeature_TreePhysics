@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.lozangocomz.treephysicsnoshiftfeature.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CommonEventsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
